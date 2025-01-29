@@ -32,4 +32,4 @@ Example `config.json`:
 ## Contributions
  - If you wish to contribute to this project, please open a pull request or an issue to discuss the changes you would like to make.
 
-# Happy coding! 😊
+ Happy coding! 😊
