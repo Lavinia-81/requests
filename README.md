@@ -1,34 +1,35 @@
-# Project Name
+# GoT Characters and Houses Game
 
-A brief description of your project, what it does, and its main purpose.
+This Python project includes scripts for displaying books from the **Game of Thrones** series, guessing characters, and displaying houses from **Westeros** and their leaders.
 
-## Table of Contents
+## Configuration
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+The `config.json` file contains the API URLs used by the scripts.
 
----
+Example `config.json`:
 
-## Features
-
-- Feature 1: Brief description of the feature.
-- Feature 2: Brief description of the feature.
-- Feature 3: Brief description of the feature.
-
----
+```json
+{
+    "book_api_url": "https://www.anapioficeandfire.com/api/books",
+    "character_api_url": "https://www.anapioficeandfire.com/api/characters",
+    "house_api_url": "https://www.anapioficeandfire.com/api/houses"
+}
+```
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/repository-name.git
-   ```
+- Clone this repository.
 
+- Create a config.json file in the main directory and add the API URLs as shown above.
 
-aici mai scriu chestii
+- Run the scripts individually using python <script_name>.py.
 
+### Requirements
+  Python 3.x
+
+## requests and json libraries
+
+## Contributions
+ - If you wish to contribute to this project, please open a pull request or an issue to discuss the changes you would like to make.
+
+# Happy coding! 😊
