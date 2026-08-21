@@ -9,6 +9,8 @@ The project was created during Python training and demonstrates practical use of
 - modular scripting
 - configuration files
 - CLI‑based data exploration
+  
+![Game of Thrones API Diagram](./GOT.API.png)
 
 It is a clean, beginner‑friendly example of how Python can consume external APIs and transform data into interactive utilities.
 
